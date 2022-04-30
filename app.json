@@ -1,11 +1,11 @@
 {
     "name": "RUDHRA",
     "description": "RUDHRA is the Modified Version of WhatsAsena, Made By @PrinceRudh with Baileys.",
-    "logo": "https://i.imgur.com/v9nzy97.png",
+    "logo": "https://i.imgur.com/Mrlcm9c.jpeg",
     "keywords": ["whatsapp", "userbot", "Rudhra", "WhatsAsena", "rudhra", "bot", "ai"],
-    "repository": "https://github.com/prince-rudh/Rudhra",
-    "website":   "https://github.com/prince-rudh/Rudhra",
-    "success_url": "https://github.com/prince-rudh/Rudhra",
+    "repository": "https://github.com/Rahees-8/Rudhra",
+    "website":   "https://github.com/Rahees-8/Rudhra",
+    "success_url": "https://github.com/Rahees-8/Rudhra",
     "stack": "container",
     "env": {
         "RUDHRA_SESSION": {
